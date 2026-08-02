@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
