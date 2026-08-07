@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -70,9 +71,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Brainteaser
 |  |
