@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Simulation
 |  |
 | ------- |
