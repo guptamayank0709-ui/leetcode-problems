@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Pigeonhole Principle
 |  |
 | ------- |
