@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3875-construct-uniform-parity-array-i](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
