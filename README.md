@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
