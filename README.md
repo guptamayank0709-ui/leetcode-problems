@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
