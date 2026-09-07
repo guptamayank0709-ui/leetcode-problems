@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1920-build-array-from-permutation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Sorting
 |  |
 | ------- |
