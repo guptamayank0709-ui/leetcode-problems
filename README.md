@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0338-counting-bits) |
