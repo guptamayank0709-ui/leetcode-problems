@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -287,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
