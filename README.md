@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
