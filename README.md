@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
