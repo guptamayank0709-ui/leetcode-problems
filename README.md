@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
