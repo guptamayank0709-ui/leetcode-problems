@@ -31,6 +31,6 @@ if (n % 2 == 1) {
 }
     return (merged[n / 2 - 1] + merged[n / 2]) / 2.0;  // 2.0 forces double division
 
-   
+//    also want to do it by binary search 
     }
 }
