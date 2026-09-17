@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 ## Minimax
