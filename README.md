@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1678-goal-parser-interpretation) |
+| [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 ## Minimax
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
