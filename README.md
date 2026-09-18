@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
