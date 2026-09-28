@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0836-rectangle-overlap) |
+| [0866-prime-palindrome](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
