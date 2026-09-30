@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
