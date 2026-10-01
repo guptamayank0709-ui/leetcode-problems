@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
