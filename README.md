@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0136-single-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0191-number-of-1-bits) |
@@ -355,5 +357,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
