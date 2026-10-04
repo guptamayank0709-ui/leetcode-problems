@@ -362,10 +362,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0052-n-queens-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0055-jump-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
