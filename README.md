@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
