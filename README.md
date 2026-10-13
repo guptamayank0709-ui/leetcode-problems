@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Algorithm X
 |  |
 | ------- |
