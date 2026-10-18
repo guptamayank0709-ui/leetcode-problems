@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Prefix Sum
 |  |
 | ------- |
