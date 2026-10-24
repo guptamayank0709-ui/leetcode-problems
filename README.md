@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
