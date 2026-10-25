@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0189-rotate-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
