@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1929-concatenation-of-array) |
