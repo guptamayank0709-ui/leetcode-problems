@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
