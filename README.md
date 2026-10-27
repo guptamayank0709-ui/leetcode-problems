@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0754-reach-a-number) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0836-rectangle-overlap) |
 ## Backtracking
 |  |
