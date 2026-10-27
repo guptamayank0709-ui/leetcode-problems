@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
