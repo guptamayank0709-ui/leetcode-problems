@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
