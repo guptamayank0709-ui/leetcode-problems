@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
