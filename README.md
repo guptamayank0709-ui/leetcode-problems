@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
