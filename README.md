@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -485,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
