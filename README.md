@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0704-binary-search) |
