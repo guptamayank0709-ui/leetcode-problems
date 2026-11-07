@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0344-reverse-string) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Merge Sort
