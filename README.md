@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Algorithm X
 |  |
@@ -465,10 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Merge Sort
 |  |
 | ------- |
