@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -508,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
