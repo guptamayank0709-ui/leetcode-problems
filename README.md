@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0832-flipping-an-image) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
