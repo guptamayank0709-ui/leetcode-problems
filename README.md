@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
@@ -530,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
