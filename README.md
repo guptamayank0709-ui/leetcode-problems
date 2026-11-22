@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/1859-sorting-the-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/guptamayank0709-ui/leetcode-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Minimax
 |  |
 | ------- |
